@@ -1,0 +1,18 @@
+{
+  "name"         : "question-pit",
+  "version"      : "0.0.0",
+  "author"       : "Stoyan",
+  "dependencies" : {
+    "grunt": "*",
+    "grunt-recess": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-karma": "*",
+    "grunt-html2js": "*",
+    "grunt-contrib-watch": "*",
+    "bower": ""
+  }
+}

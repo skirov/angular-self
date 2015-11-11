@@ -1,7 +1,6 @@
 {
-    "name"         : "node-todo",
+    "name"         : "question-pit",
     "version"      : "0.0.0",
-    "description"  : "Simple todo application.",
     "main"         : "server.js",
     "author"       : "Stoyan",
     "dependencies" : {
